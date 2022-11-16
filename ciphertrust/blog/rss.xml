@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>CipherTrust Learn Blog</title>
-        <link>https://thalesgroup.github.io/ciphertrust/blog</link>
+        <link>https://snpranav.github.io/ThalesGroup.github.io/ciphertrust/blog</link>
         <description>CipherTrust Learn Blog</description>
         <lastBuildDate>Thu, 17 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[A Guide to Picking the Right Key Manager for Your Org]]></title>
-            <link>https://thalesgroup.github.io/ciphertrust/blog/choosing-a-key-manager</link>
+            <link>https://snpranav.github.io/ThalesGroup.github.io/ciphertrust/blog/choosing-a-key-manager</link>
             <guid>choosing-a-key-manager</guid>
             <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Your company has a ton of daily active users and you have this amazingly efficient architecture to process requests at scale, but your InfoSec team asks you to use a key manager — there are so many out there, which one do you choose?]]></description>
@@ -20,7 +20,7 @@
         </item>
         <item>
             <title><![CDATA[A Guide to Data Security Architectures]]></title>
-            <link>https://thalesgroup.github.io/ciphertrust/blog/a-guide-to-encryption-architectures</link>
+            <link>https://snpranav.github.io/ThalesGroup.github.io/ciphertrust/blog/a-guide-to-encryption-architectures</link>
             <guid>a-guide-to-encryption-architectures</guid>
             <pubDate>Sat, 08 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Building and deploying applications and services is super exciting. Still, when your security team prevents your application from going into production due to a lack of data encryption — this can be very annoying.]]></description>

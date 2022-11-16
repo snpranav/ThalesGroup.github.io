@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[854],{3064:t=>{t.exports=JSON.parse('[{"label":"data-encryption","permalink":"/thalesgroup.github.io/ciphertrust/blog/tags/data-encryption","count":1},{"label":"data-protection-gateway","permalink":"/thalesgroup.github.io/ciphertrust/blog/tags/data-protection-gateway","count":1}]')}}]);

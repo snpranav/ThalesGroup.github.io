@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[205],{8728:a=>{a.exports=JSON.parse('{"label":"data-protection-gateway","permalink":"/blog/tags/data-protection-gateway","allTagsPath":"/blog/tags","count":1}')}}]);
